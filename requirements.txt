@@ -1,7 +1,0 @@
-# This project only uses Python Standard Library modules:
-# - hashlib (for SHA-256 password hashing)
-# - re (for regular expressions in password validation)
-# - typing (for type hints)
-
-# All modules are included by default with Python 3.8+
-# No external dependencies required!
